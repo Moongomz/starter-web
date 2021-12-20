@@ -14,4 +14,4 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 asdasdasdasd
- no copias
+ no manches aqui editandoo
